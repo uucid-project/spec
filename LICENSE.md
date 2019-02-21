@@ -1,4 +1,5 @@
 Copyright (c) 2018-present, Loomble Inc <opensource@loomble.com>
+
 Copyright (c) 2018-preset, Jay Rylan <jay@jayrylan.com>
 
 This Specification is available under the Open Web Foundation Final Specification
