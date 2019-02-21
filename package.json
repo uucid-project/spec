@@ -1,0 +1,21 @@
+{
+  "name": "uucid-spec",
+  "description": "Universally Unique Chronologically-Sortable Identifier compatible with UUID v4.",
+  "version": "1.0.0",
+  "private": true,
+  "license": "OWFa-1.0",
+  "homepage": "https://github.com/uucid-project/spec",
+  "bugs": "https://github.com/uucid-project/spec/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uucid-project/spec.git"
+  },
+  "author": {
+    "name": "Jay Rylan",
+    "email": "jay@jayrylan.com",
+    "url": "https://jayrylan.com"
+  },
+  "devDependencies": {
+    "@loomble/cspell-dictionary": "*"
+  }
+}
